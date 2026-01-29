@@ -1,9 +1,9 @@
 # Distributed Computing Projects
 
-Welcome to my public repository for Distributed Computing class projects.
+Public projects for Distributed Computing class.
 
 ## About
-This repo contains assignments, demos, and project write-ups for the course.
+This repo contains assignments, demos, and project write-ups.
 
 ## Links
-- GitHub Pages: (add link after enabling Pages)
+- GitHub Pages: (add after enabling Pages)
